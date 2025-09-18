@@ -1,4 +1,4 @@
-Hi, I’m Gavin 👋
+# Hi, I’m Gavin 👋
 
 🎓 3rd-year Computer Science student at UBC
 
